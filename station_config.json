@@ -1,0 +1,15 @@
+{
+  "AngelInvestor Station": ["15897"],
+  "Corporate Station": ["15895"],
+  "Student Station": ["15863"],
+  "Visitor Station": ["15898"],
+  "Investor Station": ["15899"],
+  "Media Station": ["20522"],
+  "Entrepreneur Station": ["18259", "15896"],
+  "Speaker Station": ["20731"],
+  "Hacker Station": ["21023"],
+  "Crew Station": ["21033"],
+  "Attendee Station": ["15897"],
+  "Team Station": ["20618"],
+  "Universal Station": ["15897", "15896", "15895", "15863", "15898", "15899", "20522", "18259", "15897", "20618", "00000", "20731", "21023","21033"  ]
+}
